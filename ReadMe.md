@@ -7,9 +7,6 @@
 🔭 I’m currently working on everything<br>🌱 I’m currently learning everything<br>💬 Ask me about everything<br>⚡ Fun fact I don't know anything
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Ap0cal1p3#3818) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://tr-tr.facebook.com/people/Ulvin-Necefov/pfbid02P7gnVPSfBojibGEZ28oxknbBLjSpCJXafEMJPfGPn6Ufhjt6p9iUiStx78FVUdcGl/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ulvin_necefov) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://tr.linkedin.com/in/ulvin-najafov-b29b21237/) 
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -75,6 +72,9 @@
 <div align="center">
 <a href="https://github.com/UlikGames" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://discord.gg/Ap0cal1p3#3818" target="_blank">
+<img src=https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/ulvin-najafov" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
