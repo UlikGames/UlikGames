@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Ulvin, a full-time front-end freelance developer, working remotely since 2018.</div>  
+### <div>I'm Ulvin, a full-time front-end freelance developer, working remotely since 2018.</div>  
 🔭 I’m currently working on everything<br>🌱 I’m currently learning everything<br>💬 Ask me about everything<br>⚡ Fun fact I don't know anything
 
 
