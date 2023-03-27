@@ -71,7 +71,7 @@
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/UlikGames" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://discord.gg/Ap0cal1p3#3818" target="_blank">
 <img src=https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white alt=github style="margin-bottom: 5px;" />
