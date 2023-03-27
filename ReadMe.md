@@ -98,6 +98,12 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=UlikGames&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+<br>
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=1swb2wzs1183zklymc4ox9t0k&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
+
+<br/>  
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
