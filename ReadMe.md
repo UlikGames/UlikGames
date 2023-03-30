@@ -104,9 +104,7 @@
 
 <br>
 
-<div align="center">
-  <img src="https://lanyard.kyrie25.me/api/548767921145380874?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4"  />
-</div>
+
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?     uid=1swb2wzs1183zklymc4ox9t0k&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
 
 <br/>  
