@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" alt="Ulvin Najafov, AI, software, robotics, and open source" width="100%" />
+  <img src="./assets/profile-header.svg" alt="Ulvin Najafov, full-stack development, AI, robotics, and open source" width="100%" />
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=5EEAD4&center=true&vCenter=true&width=760&lines=Building+leakage-audited+AI+systems;Turning+real-world+processes+into+software;Computer+vision+%2B+robotics+%2B+open+source" />
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=0F766E&center=true&vCenter=true&width=760&lines=Building+leakage-audited+AI+systems;Turning+real-world+processes+into+software;Computer+vision+%2B+robotics+%2B+open+source" alt="Building leakage-audited AI systems" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=5EEAD4&center=true&vCenter=true&width=760&lines=Full-stack+products+from+interface+to+deployment;Building+leakage-audited+AI+systems;Computer+vision+%2B+robotics+%2B+open+source" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=0F766E&center=true&vCenter=true&width=760&lines=Full-stack+products+from+interface+to+deployment;Building+leakage-audited+AI+systems;Computer+vision+%2B+robotics+%2B+open+source" alt="Full-stack products from interface to deployment" />
   </picture>
 </p>
 
@@ -17,13 +17,13 @@
 
 ## `01 / About`
 
-I am a **Mechanical Engineering student at Istanbul Technical University**, graduating in **July 2027**, but software has been the constant thread through nearly everything I build.
+I am a **full-stack developer** and a **Mechanical Engineering student at Istanbul Technical University**, graduating in **July 2027**. I started programming at age 9 and have since built across the complete software lifecycle.
 
-My work connects **AI, full-stack engineering, computer vision, robotics, embedded systems, and industrial processes**. I care about systems that work outside a notebook, especially when software has to understand or control something physical.
+Most of my work is end to end: **interfaces, APIs, databases, authentication, business workflows, deployment, and maintenance**. I also apply that software foundation to AI, computer vision, robotics, embedded systems, and industrial research.
 
-- Started programming at age 9
-- Building toward graduate study in Computer Science and Artificial Intelligence
+- Building full-stack products from frontend interaction to backend infrastructure
 - Developing research software with academic and industrial collaborators
+- Working toward graduate study in Computer Science and Artificial Intelligence
 - Contributing fixes, tests, and documentation to established open-source projects
 
 ## `02 / Research Focus`
@@ -102,10 +102,10 @@ A first-person horror game developed and released through multiple public versio
 
 ## `04 / Engineering Experience`
 
+- **Full-stack development:** Designed and delivered production websites, APIs, databases, authentication, administration tools, order workflows, integrations, and deployment using React, TypeScript, NestJS, Supabase, WordPress, and WooCommerce.
 - **Electric vehicle systems:** VCU software, CAN bus integration, LoRa telemetry, BMS and Hall sensor data, Arduino, and Nextion HMI visualization for the ITU KASVA electric car team.
 - **Manufacturing improvement:** Video-based work studies, workstation and pallet-layout improvements, production instructions, and an offline factory time-tracking application during a Baymak internship.
-- **Full-stack delivery:** Production websites and order workflows using React, TypeScript, NestJS, Supabase, WordPress, and WooCommerce.
-- **Open source:** Accepted contributions across Faker, Crossterm, Kaoto, CodeGraphContext, lopdf, and other ecosystems.
+- **Open source:** Contribute bug fixes, regression tests, API improvements, documentation, and cross-platform compatibility work across multiple ecosystems.
 
 ## `05 / Technical Constellation`
 
@@ -118,7 +118,7 @@ A first-person horror game developed and released through multiple public versio
 <br />
 
 **AI and data:** scikit-learn, pandas, NumPy, computer vision, segmentation, regression, temporal validation  
-**Web:** REST APIs, PostgreSQL, Supabase, responsive interfaces, authentication, deployment  
+**Full stack:** React, Next.js, NestJS, REST APIs, PostgreSQL, Supabase, authentication, responsive interfaces, deployment  
 **Robotics and embedded:** CAN bus, LoRa, Nextion HMI, inverse kinematics, telemetry  
 **Engineering:** Digital Twins, process modeling, manufacturing studies, measurement pipelines  
 **Workflow:** Git, GitHub Actions, Docker, Linux, LaTeX
