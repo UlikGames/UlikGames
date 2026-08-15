@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
   <title id="title">Ulvin Najafov</title>
-  <desc id="desc">AI, software, robotics, and open source</desc>
+  <desc id="desc">Full-stack development, AI, robotics, and open source</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#07111f"/>
@@ -55,9 +55,9 @@
   </g>
 
   <g font-family="Segoe UI, Inter, Arial, sans-serif">
-    <text x="82" y="116" fill="#94a3b8" font-size="17" letter-spacing="5">HELLO, I BUILD THINGS THAT THINK</text>
+    <text x="82" y="116" fill="#94a3b8" font-size="17" letter-spacing="5">FULL-STACK DEVELOPER  •  SYSTEM BUILDER</text>
     <text x="78" y="179" fill="url(#accent)" font-size="58" font-weight="800" letter-spacing="1.5">ULVIN NAJAFOV</text>
-    <text x="82" y="224" fill="#dbeafe" font-size="20" letter-spacing="4">AI  •  SOFTWARE  •  ROBOTICS  •  OPEN SOURCE</text>
+    <text x="82" y="224" fill="#dbeafe" font-size="20" letter-spacing="4">FULL STACK  •  AI  •  ROBOTICS  •  OPEN SOURCE</text>
     <rect x="82" y="248" width="112" height="3" rx="2" fill="#2dd4bf"/>
     <rect x="202" y="248" width="42" height="3" rx="2" fill="#38bdf8" opacity=".65"/>
   </g>
